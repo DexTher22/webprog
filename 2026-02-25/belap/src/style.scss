@@ -1,0 +1,10 @@
+$text-color: red;
+
+h1 {
+    color: $text-color;
+}
+
+table,th, td {
+    border:3px solid black;
+    border-collapse: collapse;
+}
