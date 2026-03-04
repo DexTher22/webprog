@@ -1,0 +1,28 @@
+dart.dev
+npm c sip
+
+javasrcipt
+console.log("Console log")
+node app.js
+
+typeof operátor
+console.log(typeof 32) / console.log(typeof 32.4)
+- number
+- string
+- boolean
+- object
+- function
+
+változók:
+Függvényen kívűlről nem elérhető
+- var : Látszik blokkon kívűl, függvényen belül nem
+
+- let
+
+állandók:
+- const: nem lehet új értéket hozzáadni
+
+w3c - 
+ecma - weboldal forma
+
+Legközelebb: A while ciklus
